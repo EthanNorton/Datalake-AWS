@@ -16,7 +16,6 @@ The architecture combines the scalability of a data lake with the performance of
 
 ## Project Architecture
 
-![Data Lakehouse Architecture](path/to/architecture-diagram.png)
 
 ## Steps to Implement
 

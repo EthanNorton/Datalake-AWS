@@ -15,6 +15,7 @@ The architecture combines the scalability of a data lake with the performance of
 6. **BI Tools (Tableau, Power BI, Looker)**: Data visualization and reporting.
 
 ## Project Architecture
+![image](https://github.com/EthanNorton/Datalake-AWS/assets/86625413/4a49eabf-9882-42bd-9ebc-91b124a1d8da)
 
 
 ## Steps to Implement

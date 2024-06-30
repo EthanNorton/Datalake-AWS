@@ -17,6 +17,8 @@ The architecture combines the scalability of a data lake with the performance of
 ## Project Architecture
 ![image](https://github.com/EthanNorton/Datalake-AWS/assets/86625413/4a49eabf-9882-42bd-9ebc-91b124a1d8da)
 ![image](https://github.com/EthanNorton/Datalake-AWS/assets/86625413/c40d876a-2c8e-4e71-9843-908515972f24)
+![image](https://github.com/EthanNorton/Datalake-AWS/assets/86625413/6cec59e9-8d1e-4551-bb71-bfb3fa6b6575)
+
 
 
 ## Steps to Implement
